@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20191101-20191114</PERIOD>
+ <STATION>
+ <MEAN_OBS>   1.14505839     </MEAN_OBS>
+ <STDV_OBS>   1.31481647     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         597 </NUM>
+ <MEAN>  0.873296738     </MEAN>
+ <STDV>   3.38207992E+26 </STDV>
+ <BIAS>   1.73354375     </BIAS>
+ <RMSE>  0.476480782     </RMSE>
+ <CORR>  -38971708.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         597 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98988938     </BIAS>
+ <RMSE>  0.401351154     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         597 </NUM>
+ <MEAN>   2766.14551     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62536836     </BIAS>
+ <RMSE>  0.495211273     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.908441722     </MEAN_OBS>
+ <STDV_OBS>   1.62554502     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>  0.823323786     </MEAN>
+ <STDV>   3.75782165E+26 </STDV>
+ <BIAS>   1.76883745     </BIAS>
+ <RMSE>  0.567796350     </RMSE>
+ <CORR>   2.16314280E+21 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31730425     </BIAS>
+ <RMSE>  0.666033924     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   2620.78345     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27254808     </BIAS>
+ <RMSE>  0.706030011     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.937338471     </MEAN_OBS>
+ <STDV_OBS>   1.80277824     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   1.02985930     </MEAN>
+ <STDV>   2.16057856E+21 </STDV>
+ <BIAS>   2.26455021     </BIAS>
+ <RMSE>  0.279238164     </RMSE>
+ <CORR>  -41634736.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.02050257     </BIAS>
+ <RMSE>  0.359050632     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   2320.54053     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.09556389     </BIAS>
+ <RMSE>  0.405737519     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17009985     </MEAN_OBS>
+ <STDV_OBS>   1.72101498     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>Tegen</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   1.03912246     </MEAN>
+ <STDV>   3.75628688E+26 </STDV>
+ <BIAS>   2.01909447     </BIAS>
+ <RMSE>  0.452785373     </RMSE>
+ <CORR>   2.30646859E+21 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CAMSMMR</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73240983     </BIAS>
+ <RMSE>  0.589181721     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CAMSNRT</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   2364.01733     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78823876     </BIAS>
+ <RMSE>  0.553700507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
